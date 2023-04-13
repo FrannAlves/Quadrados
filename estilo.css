@@ -1,0 +1,25 @@
+.quadrado{
+    border: 3px solid black;
+    width:200px;
+    height: 200px;
+    background-color: magenta;
+    margin: 10px;
+    position: absolute;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.quadrado2{
+    right:  0px; /*ZERO PIXELS LONGE DA DIREITA SIGNIFICA QUE ESTA COLADO NA DIREITA */
+    bottom: 0px; /*ZERO PIXELS LONGE DO FIM DA PAGINA SIGNIFICA QUE ESTA COLADO NO FIM*/
+    background-color: aqua;}
+
+.quadrado3{
+    left:0px;/* ZERO PIXELS LONGE DA ESQUERDA SIGNIFICA QUE ESTA COLADO NA ESQUERDA*/
+    bottom:0px;/*ZERO PIXELS LONGE DO FIM DA PAGINA SIGNIFICA QUE ESTA COLADO NO FIM*/
+    background-color: chartreuse;
+}
+
+.quadrado4{
+    right: 0px;/*ZERO PIXELS LONGE DA DIREITA SIGNIFICA QUE ESTA COLADO NA DIREITA */
+    top: 0px;/*ZERO PIXELS LONGE DO TOPO SIGNIFICA QUE ESTA COLADO NO TOPO */
+    background-color:crimson;
+}
